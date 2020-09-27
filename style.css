@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    padding: 15%;
+    background-color: #ff6b81;
+    color: white; 
+    font-family: 'Merriweather', serif;
+  }
+  
+  nav {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  h1 {
+    font-weight: 400;
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    font-weight: 300;
+    margin-bottom: 3rem;
+    max-width: 30rem;
+  }
+  
+  h2 a {
+    border-bottom: 1px solid;
+  }
+  
+  a {
+    color: inherit; 
+    text-decoration: none; 
+  }
+  
+  a:hover {
+    color: rgb(60,60,60);
+  }
+  
+  nav a {
+    padding-right: 2rem;
+  }
+  
+  nav a span {
+    padding-right: 0.5rem;
+  }
